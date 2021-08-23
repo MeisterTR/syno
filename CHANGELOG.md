@@ -1,3 +1,7 @@
+## 3.0.0
+
+- Fix 2FA
+
 ## 2.2.0
 
 - Update libs
